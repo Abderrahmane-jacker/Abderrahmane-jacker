@@ -1,4 +1,4 @@
-<img src="banner1.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 <h1>Hi 👋, I'm  Abderrahmane-j2k4r</h1>
 
