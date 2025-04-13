@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm  Abderrahmane-j2k4r</h1>
 
 # 💫 About Me:
-👀 I’m interested in Learning New Things<br>🌱 I’m currently learning Cybersecurity and Developement<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a hacker😈😈
+👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a j2k4r😈😈
 
 
 ## ⚡️ Where to find me
@@ -23,6 +23,13 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abderrahmane-jacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abderrahmane-jacker&theme=dark&hide_border=false)<br/>
@@ -40,8 +47,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abderrahmane-jacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
