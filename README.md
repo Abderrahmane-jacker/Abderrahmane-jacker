@@ -1,4 +1,3 @@
-<img src="banner.png" alt="GitHub Banner" width="1027" height="300" />
 
 <h1>Hi 👋, I'm  Abderrahmane-J2K4R</h1>
 
