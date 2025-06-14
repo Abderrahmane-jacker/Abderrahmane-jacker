@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm  Abderrahmane-J2K4R</h1>
 
 # 💫 About Me:
-👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a j2k4r😈😈
+👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a Y∆W4CH😈😈
 
 
 ## ⚡️ Where to find me
