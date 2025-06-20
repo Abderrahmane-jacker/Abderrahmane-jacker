@@ -2,12 +2,12 @@
 <h1>Hi 👋, I'm  Abderrahmane-J2K4R</h1>
 
 # 💫 About Me:
-👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a Y∆W4CH😈😈
+👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate with anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a Y∆W4CH😈😈
 
 
 ## ⚡️ Where to find me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#chil1_guy.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j2k4r.abderrahmane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-saouf-945119331) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/reddit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jkrabdo31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richabdo31@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-saouf-945119331)![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jkrabdo31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richabdo31@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="left">
