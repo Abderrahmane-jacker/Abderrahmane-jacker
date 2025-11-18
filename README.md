@@ -2,12 +2,12 @@
 <h1>Hi 👋, I'm  Abderrahmane-J2K4R</h1>
 
 # 💫 About Me:
-👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at Ensaj<br>💞️ I’m looking to collaborate with anyone<br>📫 How to reach me richabdo31@gmail.com<br>⚡ Fun fact: im a Y∆W4CH😈😈
+👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at EnsaJ<br>💞️ I’m looking to collaborate with anyone<br>📫 How to reach me abdosaouf7@gmail.com<br>⚡ Fun fact: im a Y∆W4CH
 
 
 ## ⚡️ Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-saouf-945119331)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jkrabdo31)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richabdo31@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-saouf-945119331)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jkrabdo31)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdosaouf7@gmail.com) 
 
 # 💻 Tech Stack:
 <div align="left">
