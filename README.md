@@ -11,47 +11,38 @@
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="70" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="70" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="70" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="70" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="70" alt="windows logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="70" alt="ubuntu logo"  />
+  <img src="https://skillicons.dev/icons?i=kali" height="70" alt="kali logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="70" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="70" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="70" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=sublime" height="70" alt="sublime logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="70" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="Bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="70" alt="Ai logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="70" alt="JQuery logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="70" alt="Md logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="70" alt="Matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="70" alt="Obsidian logo"  />
 </div>
 
 ###
