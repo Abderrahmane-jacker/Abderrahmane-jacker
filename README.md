@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm  Abderrahmane $AKA==Y∆W4CH</h1>
 
 # 💫 About Me:
-👀 I’m interested in Learning New Things<br>👨🏼‍🎓 studying Cybersecurity and digital trust at EnsaJ<br>💞️ I’m looking to collaborate with anyone<br>📫 How to reach me abdosaouf7@gmail.com<br>⚡ Fun fact: im a Retard
+👀 I’m interested in Learning New Things<br>👨🏼‍🎓 Studying Cybersecurity And Digital Trust at EnsaJ<br>💞️ I’m looking to collaborate with anyone<br>📫 How to reach me abdosaouf7@gmail.com<br>⚡ Fun fact: im a Retard
 
 
 ## ⚡️ Where to find me
